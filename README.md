@@ -4,7 +4,7 @@ Par Jeremy Fraser
 ## Mandat
 *Alaïa - La culture du surf* présente le surf et sa culture via une interface accessible pour le grand public. Dans le cadre de la Technique d'intégration multimédia du Cégep de Sainte-Foy, nous avons reçu le mandat de réaliser le concept visuel des pages d'accueil et de planches, au format mobile et de table, afin qu'il soit attrayant aux amateurs, aux experts de surf et aux novices complets. 
 
-![Interface d'accueil au format de table](interfaces/interfaceAccueilTable.jpg)
+![Interface d'accueil au format de table](interfaces/interfaceAccueilMobile.jpg)
 ![Interface d'accueil au format mobile](interfaces/interfaceAccueilMobile.jpg)
 ![Interface des planches au format de table](interfaces/interfacePlanchesTable.jpg)
 ![Interface des planches au format mobile](interfaces/interfacePlancheMobile.jpg)
